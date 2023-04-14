@@ -30,3 +30,4 @@ nb*.xml
 .classpath
 .project
 
+!/hs_err_pid89397.log
